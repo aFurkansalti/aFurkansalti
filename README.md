@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aFurkansalti
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and Java
 - 📫 How to reach me ahmetfurkansalti@gmail.com
 
 <!---
