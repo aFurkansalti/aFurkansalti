@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aFurkansalti
-- 🌱 I’m currently learning Swift and Java
+- 🌱 I’m currently learning ERP
 - 📫 How to reach me ahmetfurkansalti@gmail.com
 
 <!---
