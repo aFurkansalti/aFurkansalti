@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aFurkansalti
-- 🌱 I’m currently learning ERP
+- 🌱 I’m currently learning Full Stack Web Development 
 - 📫 How to reach me ahmetfurkansalti@gmail.com
 
 <!---
