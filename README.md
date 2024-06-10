@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aFurkansalti
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🌱 Currently, I am working on web development and improving myself in this field.
 - 📫 How to reach me ahmetfurkansalti@gmail.com
 
 <!---
